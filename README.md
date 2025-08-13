@@ -7,7 +7,7 @@ Platform: [our app](https://app.panopticon-ai.com/).
 
 ![image](https://github.com/user-attachments/assets/839cace4-dcbd-4abf-81b0-0b93afbfd8a8)
 
-Our Discord Channel: [https://discord.gg/gtUZAbbV](https://discord.gg/gtUZAbbV)
+Our Discord Channel: [[https://discord.gg/gtUZAbbV](https://discord.gg/gtUZAbbV)](https://discord.gg/afHenKqu)
 
 ## Documentation
 
