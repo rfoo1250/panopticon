@@ -554,7 +554,7 @@ export default class Game {
       currentFuel: maxFuel ?? 32000000.0,
       maxFuel: maxFuel ?? 32000000.0,
       fuelRate: fuelRate ?? 7000.0,
-      range: 250,
+      range: range ?? 250,
       route: [],
       selected: false,
       sideColor: this.currentScenario.getSideColor(this.currentSideId),
