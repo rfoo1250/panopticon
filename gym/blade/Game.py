@@ -63,7 +63,7 @@ class Game:
             self.current_scenario.get_aircraft(aircraft_id)
         )
 
-    def land_aicraft(self, aircraft_id: str) -> None:
+    def land_aircraft(self, aircraft_id: str) -> None:
         aircraft = self.current_scenario.get_aircraft(aircraft_id)
         if aircraft is not None and aircraft.rtb:
             homebase = self.current_scenario.get_aircraft_homebase(aircraft.id)
@@ -659,7 +659,7 @@ class Game:
                     )
                     < 0.5
                 ):
-                    self.land_aicraft(aircraft.id)
+                    self.land_aircraft(aircraft.id)
                     continue
 
             route = aircraft.route
